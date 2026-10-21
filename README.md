@@ -173,6 +173,14 @@
   * 📰 **News Noise (20%):** Анализ травм, мотивации и тональности новостей через NLP/LLM.
   * 🔗 **Aggregator:** Итоговое решение на основе взвешенного голосования слоев с учетом их согласованности.
 
+  <!-- БЛОК СО СКРИНШОТОМ (Замените путь на реальный файл в вашем репозитории) -->
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Dimsan23/betting_bot_project/main/docs/screenshot.png" alt="Дашборд Sports Trading Bot" width="80%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    <br/>
+    <sub><i>Пример интерфейса дашборда (замените ссылку на свою картинку)</i></sub>
+  </div>
+  <br/>
+
   **⚙️ Технологический стек:**
   * **Backend:** Python, Django, DRF, SQLAlchemy, asyncio, Pydantic.
   * **Data:** PostgreSQL (Multi-DB), Redis, PgBouncer.
@@ -184,7 +192,7 @@
   * Работающий Telegram-бот с алертами о валуях.
   * Дашборд с фильтрацией и AI-аналитика в реальном времени.
 
-  🔗 **[Посмотреть исходный код](https://github.com/Dimsan23/sports-trading-bot)** | **[Документация (16 кейсов)](https://github.com/Dimsan23/sports-trading-bot/tree/main/docs)**
+  🔗 **[Посмотреть исходный код](https://github.com/Dimsan23/betting_bot_project)** | **[Документация](https://github.com/Dimsan23/betting_bot_project/tree/main/docs)**
 
   <sub>⚠️ *Disclaimer: Проект создан в образовательных и исследовательских целях. Автор не призывает к азартным играм.*</sub>
 
