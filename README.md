@@ -143,7 +143,7 @@
 
 * 🌐 [Профиль проекта на платформе НТИ / Росконгресс](https://xn--d1ach8g.xn--c1aenmdblfega.xn--p1ai/improject-217115/ideas/286455)
 * 🐙 [GitHub автора](https://github.com/Dimsan23)
-* 📧 **Email:** serga.cv@example.com *(замените на реальный)*
+* 📧 **Email:** info@safetyaipro.ru
 
 <br />
 <div align="center">
