@@ -189,8 +189,9 @@
   <sub>⚠️ *Disclaimer: Проект создан в образовательных и исследовательских целях. Автор не призывает к азартным играм.*</sub>
 
 </details>
-
-<br/><br/>
+<br/>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dimsan23&color=0078D4&style=flat-square&label=ПРОСМОТРЫ+ПРОФИЛЯ" alt="Profile Views" />
+  <a href="https://github.com/Dimsan23" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Dimsan23&color=0078D4&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ" alt="Profile views" />
+  </a>
 </div>
