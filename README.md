@@ -189,6 +189,7 @@
   <sub>⚠️ *Disclaimer: Проект создан в образовательных и исследовательских целях. Автор не призывает к азартным играм.*</sub>
 
 </details>
+
 <br/><br/>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dimsan23&color=0078D4&style=flat-square&label=ПРОСМОТРЫ+ПРОФИЛЯ" alt="Profile Views" />
