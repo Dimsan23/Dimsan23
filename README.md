@@ -149,3 +149,43 @@
 <div align="center">
   <i>Safety AI Pro — Цифровой комплаенс, которому доверяет государство.</i>
 </div>
+<details>
+  <summary>
+    <h3>🧠 Sports Trading Bot — AI-платформа проактивного беттинга</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-4.x-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-15-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/DeepSeek_API-4B6EF5?style=flat-square" />
+      <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-MVP_2.0-success?style=flat-square" />
+    </p>
+  </summary>
+  
+  <br/>
+
+  **Описание:** Гибридная автоматизированная система для поиска математически выгодных ставок (Value Betting). В отличие от обычных парсеров, использует собственный математический движок, мультиагентный AI и анализ новостного фона, чтобы находить реальные возможности на рынке.
+
+  **🏗 Ключевая архитектура:**
+  * 🧮 **MathEngine (45%):** Распределение Пуассона, ELO, скользящее окно (расчет вероятностей П1/Х/П2 и точного счета).
+  * 🤖 **AI Agents (35%):** Коллективное голосование трех LLM (DeepSeek, Gemini, ChatGPT) с взвешиванием уверенности.
+  * 📰 **News Noise (20%):** Анализ травм, мотивации и тональности новостей через NLP/LLM.
+  * 🔗 **Aggregator:** Итоговое решение на основе взвешенного голосования слоев с учетом их согласованности.
+
+  **⚙️ Технологический стек:**
+  * **Backend:** Python, Django, DRF, SQLAlchemy, asyncio, Pydantic.
+  * **Data:** PostgreSQL (Multi-DB), Redis, PgBouncer.
+  * **AI/ML:** DeepSeek API, Google Gemini, OpenAI, YOLOv8 *(в roadmap)*.
+  * **Infra:** Docker, Docker Compose, Gunicorn.
+
+  **🗺 Что уже готово (MVP 2.0):**
+  * Загрузка истории (6000+ матчей) и live-коэффициентов.
+  * Работающий Telegram-бот с алертами о валуях.
+  * Дашборд с фильтрацией и AI-аналитика в реальном времени.
+
+  🔗 **[Посмотреть исходный код](https://github.com/Dimsan23/sports-trading-bot)** | **[Документация (16 кейсов)](https://github.com/Dimsan23/sports-trading-bot/tree/main/docs)**
+
+  <sub>⚠️ *Disclaimer: Проект создан в образовательных и исследовательских целях. Автор не призывает к азартным играм.*</sub>
+
+</details>
