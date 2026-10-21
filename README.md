@@ -139,6 +139,7 @@
 Мы открыты к пилотным проектам, интеграциям и государственным контрактам. 
 
 **Автор и идеолог проекта:**
+![Profile Views](https://komarev.com/ghpvc/?username=Dimsan23&color=0078D4&style=flat-square&label=ПРОСМОТРЫ)
 **Сергеев Дмитрий Петрович** — CV Engineer / AI Architect
 
 * 🌐 [Профиль проекта на платформе НТИ / Росконгресс](https://xn--d1ach8g.xn--c1aenmdblfega.xn--p1ai/improject-217115/ideas/286455)
