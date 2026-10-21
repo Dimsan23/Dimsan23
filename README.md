@@ -173,14 +173,6 @@
   * 📰 **News Noise (20%):** Анализ травм, мотивации и тональности новостей через NLP/LLM.
   * 🔗 **Aggregator:** Итоговое решение на основе взвешенного голосования слоев с учетом их согласованности.
 
-  <!-- БЛОК СО СКРИНШОТОМ (Замените путь на реальный файл в вашем репозитории) -->
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Dimsan23/betting_bot_project/main/docs/screenshot.png" alt="Дашборд Sports Trading Bot" width="80%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-    <br/>
-    <sub><i>Пример интерфейса дашборда (замените ссылку на свою картинку)</i></sub>
-  </div>
-  <br/>
-
   **⚙️ Технологический стек:**
   * **Backend:** Python, Django, DRF, SQLAlchemy, asyncio, Pydantic.
   * **Data:** PostgreSQL (Multi-DB), Redis, PgBouncer.
